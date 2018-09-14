@@ -1,0 +1,19 @@
+{
+  "name": "gst-contracts",
+  "version": "1.0.0",
+  "description": "The contracts for GasToken (GST) used in the relayer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kggp1995/gst-contracts.git"
+  },
+  "author": "Ganesh Prasad Kumble et. al.",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kggp1995/gst-contracts/issues"
+  },
+  "homepage": "https://github.com/kggp1995/gst-contracts#readme"
+}
